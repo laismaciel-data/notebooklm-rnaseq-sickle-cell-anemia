@@ -9,13 +9,9 @@ The chosen theme was the application of RNA-seq and transcriptomics in the study
 In addition to the scientific exploration of the theme, the project also focused on developing skills in:
 
 * Scientific curation;
-
 * Prompt engineering;
-
 * Knowledge organization;
-
 * Use of AI applied to biomedical research;
-
 * Technical documentation on GitHub.
 
 ---
@@ -23,28 +19,20 @@ In addition to the scientific exploration of the theme, the project also focused
 # 🎯 Study Objectives
 
 * Understand the role of inflammation in sickle cell anemia;
-
 * Study how RNA-seq assists in the identification of biomarkers;
-
 * Explore applications of transcriptomics in hematological diseases;
-
 * Use NotebookLM as a scientific study tool;
-
 * Develop prompt engineering skills.
 
 ---
 
 # 📂 Sources Used
 
-| Source | Type |
-
-| ------------------------------------------- | ---- |
-
-| Article on cytokines in sickle cell anemia | PDF |
-
-| Review on inflammation and CVO | PDF |
-
-| Study involving RNA-seq in SCA | PDF |
+| Source                                     | Type |
+| ------------------------------------------ | ---- |
+| Article on cytokines in sickle cell anemia | PDF  |
+| Review on inflammation and CVO             | PDF  |
+| Study involving RNA-seq in SCA             | PDF  |
 
 ---
 
@@ -54,7 +42,6 @@ In addition to the scientific exploration of the theme, the project also focused
 
 ```text
 Explain how inflammation participates in the pathophysiology of sickle cell anemia.
-
 ```
 
 ### Difficulty Encountered
@@ -67,7 +54,6 @@ The initial answers were too broad and not specific enough.
 
 ```text
 Explain the role of RNA-seq in identifying inflammatory signatures associated with vaso-occlusive crisis using only the provided sources.
-
 ```
 
 ### Results
@@ -96,21 +82,16 @@ Transcriptomics can aid in the discovery of biomarkers, clinical stratification,
 
 # 📚 Glossary
 
-| Term | Definition |
-
-| ------------- | -------------------------------------------------- |
-
-| RNA-seq | RNA sequencing technique |
-
-| Transcriptome | Set of RNAs expressed in a cell |
-
-| CVO | Vaso-occlusive crisis |
-
-| Biomarker | Biological indicator associated with clinical processes |
+| Term          | Definition                                              |
+| ------------- | ------------------------------------------------------- |
+| RNA-seq       | RNA sequencing technique                                |
+| Transcriptome | Set of RNAs expressed in a cell                         |
+| VOC           | Vaso-occlusive crisis                                   |
+| Biomarker     | Biological indicator associated with clinical processes |
 
 ---
 
-# # 🔁 Reusable Prompts
+# 🔁 Reusable Prompts
 
 ```text
 Compare the inflammatory mechanisms described in the uploaded sources.
@@ -139,8 +120,6 @@ Summarize the main transcriptomic findings described in the articles.
 
 This project demonstrated how AI tools can support scientific learning, knowledge organization, and in-depth study of complex biomedical topics.
 
-
-
 ---
 
 # 🔍 Experience with NotebookLM
@@ -151,28 +130,27 @@ The initial prompts produced broader and more generic answers. After refining th
 
 It was also possible to perceive the usefulness of NotebookLM in synthesizing complex scientific articles, facilitating the understanding of topics related to transcriptomics, inflammation, and biomarkers in sickle cell anemia.
 
---
+---
 
 # ⚠️ Difficulties Encountered ("Scars")
 
 * Some very broad prompts generated superficial answers;
-
 * Terms related to transcriptomics produced excessive information;
-
 * It was necessary to learn how to better specify the context of the questions;
-
-* The AI ​​provided more useful answers when the prompts were objective and targeted.
+* The AI provided more useful answers when the prompts were objective and targeted.
 
 ---
 
 # ✅ Learnings Obtained
 
 * Importance of prompt engineering;
-
 * Organization of scientific sources;
-
 * Use of AI as a complementary study tool;
-
 * Practical application of NotebookLM in biomedical research;
-
 * Structuring technical knowledge on GitHub.
+
+---
+
+# 👩‍🔬 Author
+
+Project developed by a biomedical scientist interested in translational bioinformatics, immunology, transcriptomics, and sickle cell disease research.
