@@ -110,18 +110,18 @@ Transcriptomics can aid in the discovery of biomarkers, clinical stratification,
 
 ---
 
-# 🔁 Reusable Prompts
+# # 🔁 Reusable Prompts
 
-```text Compare the inflammatory mechanisms described in the submitted sources.
-
+```text
+Compare the inflammatory mechanisms described in the uploaded sources.
 ```
 
-```text Which genes appear associated with inflammation during vaso-occlusive crises?
-
+```text
+Which genes appear associated with inflammation during vaso-occlusive crises?
 ```
 
-```text Summarize the main transcriptomic findings found in the articles.
-
+```text
+Summarize the main transcriptomic findings described in the articles.
 ```
 
 ---
