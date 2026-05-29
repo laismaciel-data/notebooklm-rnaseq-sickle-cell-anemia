@@ -138,3 +138,41 @@ Transcriptomics can aid in the discovery of biomarkers, clinical stratification,
 # ✨ Final Considerations
 
 This project demonstrated how AI tools can support scientific learning, knowledge organization, and in-depth study of complex biomedical topics.
+
+
+
+---
+
+# 🔍 Experience with NotebookLM
+
+During testing with NotebookLM, it was possible to observe how the quality of the prompts directly influences the depth of the AI-generated responses.
+
+The initial prompts produced broader and more generic answers. After refining the questions and delimiting the context using only the provided sources, the answers began to show greater scientific precision and better organization of concepts.
+
+It was also possible to perceive the usefulness of NotebookLM in synthesizing complex scientific articles, facilitating the understanding of topics related to transcriptomics, inflammation, and biomarkers in sickle cell anemia.
+
+--
+
+# ⚠️ Difficulties Encountered ("Scars")
+
+* Some very broad prompts generated superficial answers;
+
+* Terms related to transcriptomics produced excessive information;
+
+* It was necessary to learn how to better specify the context of the questions;
+
+* The AI ​​provided more useful answers when the prompts were objective and targeted.
+
+---
+
+# ✅ Learnings Obtained
+
+* Importance of prompt engineering;
+
+* Organization of scientific sources;
+
+* Use of AI as a complementary study tool;
+
+* Practical application of NotebookLM in biomedical research;
+
+* Structuring technical knowledge on GitHub.
